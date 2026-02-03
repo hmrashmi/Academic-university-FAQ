@@ -11,4 +11,40 @@ An AI-powered University FAQ Assistant built using **Python, Streamlit, and NLP 
 ✅ College & Hostel Information Sections  
 ✅ Academic & Financial Details  
 ✅ Light/Dark Mode UI  
-✅ Add New
+✅ Add New Questions & Retrain Bot Feature  
+✅ Analytics Storage using JSON  
+✅ Clean & Interactive Streamlit Dashboard  
+
+---
+
+## 🧠 AI Technologies Used
+
+- Natural Language Processing (NLP)  
+- TF-IDF Vectorization  
+- Cosine Similarity Matching  
+- Python  
+- Streamlit  
+
+---
+
+## 📂 Project Files
+
+- `app.py` → Main Streamlit application  
+- `create_pdfs.py` → PDF handling script  
+- `College_Handbook.pdf` → College data source  
+- `Hostel_Manual.pdf` → Hostel data source  
+- `analytics_data.json` → Stores user interactions  
+
+---
+
+## ▶ How to Run the Project
+
+1. Install dependencies:
+```bash
+pip install streamlit scikit-learn
+run:
+streamlit run app.py
+Open browser:
+
+http://localhost:8501
+
