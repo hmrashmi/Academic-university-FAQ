@@ -26,6 +26,9 @@ An AI-powered University FAQ Assistant built using **Python, Streamlit, and NLP 
 - Streamlit  
 
 ---
+sytem Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0dfaebac-2552-4550-a38b-3283c4ee99b3" />
+
 
 ## 📂 Project Files
 
